@@ -18,5 +18,10 @@
         "item":"Coke",
         "price":"40",
         "imageurl":"https://firebasestorage.googleapis.com/v0/b/instasave-ed2ce.appspot.com/o/fod%2Fcoke.png?alt=media&token=b3f33471-13e1-46e4-936d-c684b580aca5"
+    },
+    {
+        "item":"Chicken Nuggets",
+        "price":"70",
+        "imageurl":"https://firebasestorage.googleapis.com/v0/b/instasave-ed2ce.appspot.com/o/fod%2Fchicken_nuggets.png?alt=media&token=6ee8d1f3-79cd-4362-b7f4-6b9237edab47"
     }
 ]
