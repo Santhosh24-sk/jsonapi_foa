@@ -1,33 +1,34 @@
-{
-    "title":{
-        "chat items":
-    [
+[
     {  
+        "title":"chat items"
         "item":"Pizza",
         "price":"80",
         "imageurl":"https://firebasestorage.googleapis.com/v0/b/instasave-ed2ce.appspot.com/o/fod%2Fpizza.png?alt=media&token=dd7c2edf-d6f6-4bef-b1ac-b192aed37e31"
     },
     {
+        "title":"chat items"
         "item":"Burger",
         "price":"60",
         "imageurl":"https://firebasestorage.googleapis.com/v0/b/instasave-ed2ce.appspot.com/o/fod%2Fburger2.png?alt=media&token=8bb52f04-550c-43c9-9b4a-b5eae2c56b00"
     },
     {
+        "title":"chat items"
         "item":"Potato Fires",
         "price":"50",
         "imageurl":"https://firebasestorage.googleapis.com/v0/b/instasave-ed2ce.appspot.com/o/fod%2Ffries.png?alt=media&token=0a1fedca-e63d-4250-9d42-635540f4006a"
     },
     {
+        "title":"chat items"
         "item":"Coke",
         "price":"40",
         "imageurl":"https://firebasestorage.googleapis.com/v0/b/instasave-ed2ce.appspot.com/o/fod%2Fcoke.png?alt=media&token=b3f33471-13e1-46e4-936d-c684b580aca5"
     },
     {
+        "title":"chat items"
         "item":"Chicken Bites",
         "price":"70",
         "imageurl":"https://firebasestorage.googleapis.com/v0/b/instasave-ed2ce.appspot.com/o/fod%2Fchicken_nuggets.png?alt=media&token=6ee8d1f3-79cd-4362-b7f4-6b9237edab47"
     }
-    ]
-    }
-}
+]
+  
 
